@@ -23,4 +23,17 @@ int main()
 	}
 	int hieu(int a, int b){
 		return a-b;
+<<<<<<< HEAD
 	}
+	cout<<"Kiem Tra a la so chan: ";
+	if (a % 2 == 0) {
+        cout << number << " là số chẵn." << endl;
+    } else {
+        cout << number << " là số lẻ." << endl;
+    }
+	system("pause");
+	return 0;
+}
+=======
+	}
+>>>>>>> 581ecfb121658d1002d52b09a871e6383635856f
