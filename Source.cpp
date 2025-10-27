@@ -21,6 +21,12 @@ int main()
 	int hieu(int a, int b){
 		return a-b;
 	}
+	cout<<"Kiem Tra a la so chan: ";
+	if (a % 2 == 0) {
+        cout << number << " là số chẵn." << endl;
+    } else {
+        cout << number << " là số lẻ." << endl;
+    }
 	system("pause");
 	return 0;
 }
