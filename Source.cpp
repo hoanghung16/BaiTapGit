@@ -24,9 +24,9 @@ int main()
     }
 		cout<<"Kiem Tra a la so chan: ";
 	if (a % 2 == 0) {
-        cout << number << " là số chẵn." << endl;
+        cout << a << " là số chẵn." << endl;
     } else {
-        cout << number << " là số lẻ." << endl;
+        cout << a << " là số lẻ." << endl;
     }
 	system("pause");
 	return 0;
